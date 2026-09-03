@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>883280627227-fra26fvq42l8imqof9bp0q27bb1pmbno.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883280627227-fra26fvq42l8imqof9bp0q27bb1pmbno</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>883280627227-t95kgp8m5a763dgtrg48pih65ihr93kt.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUiFRzHhPlDtSaymeC4YJ6IpHL31EDdMg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883280627227</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AI.novel.story.book.generator</string>
+	<key>PROJECT_ID</key>
+	<string>penman-98b1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>penman-98b1b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883280627227:ios:f64f9ccc287f6fd007dabe</string>
+</dict>
+</plist>

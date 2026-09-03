@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Penman Pro</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Penman Pro</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.883280627227-fra26fvq42l8imqof9bp0q27bb1pmbno</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FlutterDeepLinkingEnabled</key>
+	<false/>
+	<key>GIDClientID</key>
+	<string>883280627227-fra26fvq42l8imqof9bp0q27bb1pmbno.apps.googleusercontent.com</string>
+	<key>GIDServerClientID</key>
+	<string>883280627227-udm0gelvgstvfc20oe3pudpaovo23u35.apps.googleusercontent.com</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>mailto</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera accessing for helping you take photos to feedback your quesitons.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Microphone is used to recognize your voices, allowing you to create book or story faster. </string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photo accessing for helping you upload image to feedback your questions.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech recognition can help you quickly and easily generate an outline for a book or a story.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This information can help match the advertisement content that better suits your interests.</string>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>shortcut_gift</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🎁Limited-Time Deal</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.penman.gift</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>shortcut_write</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Create story or book</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🖌️Start Creating</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.penman.write</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>shortcut_record</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>📝History</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.penman.record</string>
+		</dict>
+		<dict>
+			<key>UIApplicationShortcutItemIconFile</key>
+			<string>shortcut_feedback</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>🧑🏻‍🚀Feedback</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.penman.feedback</string>
+		</dict>
+	</array>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+</dict>
+</plist>
